@@ -113,7 +113,7 @@ def run_alexa():
     elif 'do you love me' in command:
         talk('ofcourse i love you.')
     elif 'varun' in command:
-        talk('varun is a bitch guy!')
+        talk('varun is an Indian name!')
     elif 'joke' in command:
         talk(pyjokes.get_joke())
     else:
